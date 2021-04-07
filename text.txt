@@ -1,0 +1,2 @@
+Some info inside txt file!
+Date today!
